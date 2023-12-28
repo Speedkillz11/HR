@@ -7,3 +7,5 @@
     },
     "search.useGlobalIgnoreFiles": true,
     "search.useParentIgnoreFiles": true
+},
+"terminal.integrated.shellIntegration.enabled": true
